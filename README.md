@@ -1,3 +1,3 @@
 # triangle-pattern
 This is my first git repository
-Author-Pankaj
+Author-Pankaj ray
